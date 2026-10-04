@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "usb2uart") (type "KiCad") (uri "E:/EDAproj/gerber/usb2uart/usb2uart.pretty") (options "") (descr ""))
+	(lib (name "FutabaAnzu_Library") (type "KiCad") (uri "${KIPRJMOD}/FutabaAnzu_Library.pretty") (options "") (descr ""))
+)
