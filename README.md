@@ -38,18 +38,8 @@ Serial digital signals are high voltage when available. Beginning bit pulled low
 
 ## About
 - Visit my [Github](https://github.com/Clemenz) <---click here.
-- FutabaAnzu[Drawing](Iamge\IMG_20261004_184027.png)
+- Futaba Anzu [Drawing]([Iamge](https://github.com/ClemenzC/AnzuU2U/edit/main/Image/IMG_20261004_184027).
 - Go to [MyPersionBlog](https://fanhcloud.uk) to see more silkscreen.
 > Love you forever Anzu!!!<3
-
-
-|name|age|
-|----|----|
-|Bob|:Eric:|
-|:Anna|Derick:|
-|----|----|
-
-[x] xxx
-[ ]sss
 
 <div align="center">CenterDisplay</div>
