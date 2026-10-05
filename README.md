@@ -16,17 +16,17 @@ You can acquire the Anzu silkscreen file(.\usb2uart\Futaba Anzu.kicad_mod) and a
 
 3. Data Format:
 
-Serial digital signals are high voltage when available. Beginning bit pulled low, then it started transferring data bit, check bit and halt bit respectively in order of bit sequence.
+Serial digital signals are high voltage when available. with start bit pulled low, then it started transferring data bit, check bit and halt bit respectively in order of bit sequence.
 
 ---
 
 ## Solution Features:
 
-1. Simplified Peripheral
+1. Simplified Peripherals
 
 2. Macro Package
 
-3. Full speed compatibility
+3. Full Speed Compatibility
 
 4. Wide Voltage
 
@@ -39,7 +39,7 @@ Serial digital signals are high voltage when available. Beginning bit pulled low
 ## About
 - Visit my [Github](https://github.com/Clemenz) <---click here.
 - Futaba Anzu [Drawing]([Iamge](https://github.com/ClemenzC/AnzuU2U/edit/main/Image/IMG_20261004_184027).
-- Go to [MyPersionBlog](https://fanhcloud.uk) to see more silkscreen.
-> Love you forever Anzu!!!<3
+- Go to [MyPersionBlog](https://fanhcloud.uk) to see more silkscreens.
 
-<div align="center">CenterDisplay</div>
+
+<div align="center">Love you forever Anzu!!!<3</div>
