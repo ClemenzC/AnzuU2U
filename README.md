@@ -42,4 +42,4 @@ Serial digital signals are high voltage when available. with start bit pulled lo
 - Go to [MyPersionBlog](https://fanhcloud.uk) to see more silkscreens.
 
 
-<div align="center">Love you forever Anzu!!!<3</div>
+<div align="center" style="color: pink;">Love you forever Anzu!!!<3</div>
