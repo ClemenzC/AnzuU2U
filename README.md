@@ -28,7 +28,7 @@ Serial digital signals are high voltage when available. with start bit pulled lo
 
 3. Full Speed Compatibility
 
-4. Wide Voltage
+4. Wide Voltage Range
 
 5. High Baud rate
 
@@ -42,4 +42,4 @@ Serial digital signals are high voltage when available. with start bit pulled lo
 - Go to [MyPersionBlog](https://fanhcloud.uk) to see more silkscreens.
 
 
-<div align="center" style="color: pink;">Love you forever Anzu!!!<3</div>
+<div align="center" style="color: pink !important;">Love you forever Anzu!!!<3</div>
