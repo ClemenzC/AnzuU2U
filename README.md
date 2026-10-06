@@ -4,7 +4,7 @@
 
 A Futaba Anzu themed USB2.0 to UART convertor with integrated CH340N chip and two LED indicators which twinkles when the device communicates with another one. With USB 2.0 defferential signal getting into CH340N,the convertor core will convert the signal to serial port signal.
 
-You can acquire the Anzu silkscreen file(.\usb2uart\Futaba Anzu.kicad_mod) and another 15*15 (mm2) version in the same folder.
+You can get the [Anzu silkscreen file](/usb2uart/FutabaAnzu_Library.pretty/Futaba_Anzu.kicad_mod) and another [15*15 (mm2) version](/usb2uart/FutabaAnzu_Library.pretty/Futaba_Anzu_1515.kicad_mod) in the same folder.
 
 ---
 
@@ -14,7 +14,7 @@ You can acquire the Anzu silkscreen file(.\usb2uart\Futaba Anzu.kicad_mod) and a
 
 **TX(dev_A) must be connected with RX(dev_B) and RX(dev_A) must be connected with TX(dev_B) as well otherwise signal cannot be received.**
 
-3. Data Format:
+2. Data Format:
 
 Serial digital signals are high voltage when available. with start bit pulled low, then it started transferring data bit, check bit and halt bit respectively in order of bit sequence.
 
