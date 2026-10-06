@@ -12,7 +12,7 @@ You can acquire the Anzu silkscreen file(.\usb2uart\Futaba Anzu.kicad_mod) and a
 
 1. Crossing Connection:
 
-'''TX(dev_A) must be connected with RX(dev_B) and RX(dev_A) must be connected with TX(dev_B) as well otherwise signal cannot be received.'''
+**TX(dev_A) must be connected with RX(dev_B) and RX(dev_A) must be connected with TX(dev_B) as well otherwise signal cannot be received.**
 
 3. Data Format:
 
@@ -38,7 +38,7 @@ Serial digital signals are high voltage when available. with start bit pulled lo
 
 ## About
 - Visit my [Github](https://github.com/Clemenz) <---click here.
-- Futaba Anzu [Drawing]([Iamge](https://github.com/ClemenzC/AnzuU2U/edit/main/Image/IMG_20261004_184027).
+- Futaba Anzu [Drawing](/Image/IMG_20261004_184027.png).
 - Go to [MyPersionBlog](https://fanhcloud.uk) to see more silkscreens.
 
 
